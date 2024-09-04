@@ -1,0 +1,46 @@
+.parent{
+    
+    display: flex;
+   justify-content:space-between;
+   align-items: center;
+   list-style-type: none;
+   background-color: rgb(255, 255, 250);
+
+
+}
+
+
+
+  
+
+h1{
+    flex: 2;
+    display: flex;
+    justify-content: space-around;
+    align-items:flex-start;
+    
+}
+
+nav{
+    flex: 1;
+    display:flex;
+    justify-content:space-around;
+    align-items: center;
+flex: auto;
+    
+}
+a{
+    text-decoration: none;
+    font-size: 20px;
+}
+
+
+
+.good{
+   display: flex;
+    background-color: rgb(227, 237, 241);
+    justify-content: space-evenly;
+    list-style-type: none;
+padding: 10px;
+margin-top: 10px;
+}
